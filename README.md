@@ -3,6 +3,4 @@
 Bu repo, eğitim serimizdeki kaynak dosyaları içerir.
 
 ## Karakter Dosyaları
-Derslerde kullandığımız karakterleri aşağıdaki linkten indirebilirsiniz:
-
-[📥 Karakter Paketini İndir (Zip)](./Karakterler.zip)
+Derslerde kullandığımız karakterleri buradan indirebilirsiniz.
