@@ -2,5 +2,11 @@
 
 Bu repo, eğitim serimizdeki kaynak dosyaları içerir.
 
-## Karakter Dosyaları
+## Karakter Görselleri
 Derslerde kullandığımız karakterleri buradan indirebilirsiniz.
+
+## Boru ve Çevre Görselleri
+Boru assetlerini indirmek için:
+
+[📥 Boru Paketini İndir (Zip)](./Borular.zip)
+
